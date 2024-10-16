@@ -1,4 +1,4 @@
-#Tyler, Martide, Mariet, Oluseyi Group Code
+#Tyler, Martide, Mariet, and Oluseyi
 for count in range(1,101):
   if count % 3 == 0 and count % 5 == 0:
     print("Fizz-Buzz")
